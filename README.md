@@ -47,6 +47,6 @@ This library is [MIT](https://github.com/intentuilabs/icons/blob/master/LICENSE)
 ## Showcase
 
 - [Intent UI](https://intentui.com)
-- [Intent UI Blocks](https://blocks.intentui.com)
+- [Intent UI Blocks](https://design.intentui.com)
 - [parsinta.com](https://parsinta.com)
 - [irsyad.co](https://irsyad.co)
